@@ -18,7 +18,7 @@ This project sets up a **Node.js WebSocket server** that receives real-time audi
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MAlik81/node.js-twilio-OpenAI-Call-Agent.git
    cd your-repo-name
    ```
 
